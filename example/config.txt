@@ -1,0 +1,2 @@
+Prefix plugins/IdentifyBacteria/example/
+Plugin IdentifyBacteria inputfile /biorg/data/DB/BRENDA/brenda_download_shorter.txt outputfile bacteria.txt
